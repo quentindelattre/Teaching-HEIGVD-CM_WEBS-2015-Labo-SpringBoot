@@ -1,5 +1,9 @@
 # Smart City - Citizen Engagement - Spring Boot Skeleton
 
+*Team :* Richard Amman, Quentin de Lattre
+
+*Heroku URL :* [`https://evening-badlands-7537.herokuapp.com`](https://evening-badlands-7537.herokuapp.com)
+
 ## Introduction
 
 The implementation is done with:
